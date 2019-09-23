@@ -1,5 +1,8 @@
 # sempak
-$ pkg install git python python2
+
+$ pkg update && pkg upgrade -y
+
+$ pkg install git python python2 -y
 
 $ pip2 install --upgrade pip
 
